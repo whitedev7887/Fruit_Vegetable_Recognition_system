@@ -6,7 +6,8 @@ It is a fruits and vegetable recognition system using CNN and provide the recipe
 
 <strong>Abstract</strong><br>
 
-This project entitled “Fruits and Vegetable Recognition system with Recipe using CNN” is an Artificial Intelligence based image recognition system which uses the images of the fruits and vegetables to recognize it. The ultimate goal of this research is to develop computer-aided technical solutions to enhance and improve the accuracy of recognizing fruits and vegetables. Proposed system in this paper aims to improve the accuracy of identification of fruit(s) and vegetable(s) images. This system uses most powerful machine learning technique from the field of Deep Learning to recognize and classify different categories of fruits and vegetables images. Here, Convolutional Neural Network (CNN) based food image recognition algorithm is used to train an image category classifier. The accuracy of recognizing different fruits and vegetables.
+This project entitled “Fruits and Vegetable Recognition system with Recipe using CNN” is an Artificial Intelligence based image recognition system which uses the images of the fruits and vegetables to recognize it. The ultimate goal of this research is to develop computer-aided technical solutions to enhance and improve the accuracy of recognizing fruits and vegetables. Proposed system in this paper aims to improve the accuracy of identification of fruit(s) and vegetable(s) images. This system uses most powerful machine learning technique from the field of Deep Learning to recognize and classify different categories of fruits and vegetables images. Here, Convolutional Neural Network (CNN) based food image recognition algorithm is used to train an image category classifier. The accuracy of recognizing different fruits and vegetables of 3116 files of 36classes.
+
 ### Tools and Techniques Used
 <li>Python</li>
 <li>Matplotlib</li>
@@ -59,3 +60,8 @@ There are 8 classes of food detected by the Fruits and Vegetables Recognition Ap
 
 Datasets 
 Vegetable Datas and fruits dataset are taken from <a href ="https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition">Kaggle</a>
+
+Validation set accuracy: 91.16809368133545 %
+Training set accuracy:
+
+
