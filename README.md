@@ -56,3 +56,6 @@ There are 8 classes of food detected by the Fruits and Vegetables Recognition Ap
 <li>tomato</li>
 <li>turnip</li>
 <li>watermelon</li>
+
+Datasets 
+Vegetable Datas and fruits dataset are taken from <a href ="https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition">Kaggle</a>
