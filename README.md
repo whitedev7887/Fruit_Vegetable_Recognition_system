@@ -34,7 +34,7 @@ There are 8 classes of food detected by the Fruits and Vegetables Recognition Ap
 <li>eggplant</li>
 <li>garlic</li>
 <li>ginger</li>
-<li>grapes</li><
+<li>grapes</li>
 <li>jalepeno</li>
 <li>kiwi</li>
 <li>lemon</li>
