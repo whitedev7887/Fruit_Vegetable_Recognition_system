@@ -61,8 +61,8 @@ There are 8 classes of food detected by the Fruits and Vegetables Recognition Ap
 Datasets 
 Vegetable Datas and fruits dataset are taken from <a href ="https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition">Kaggle</a>
 
-###Validation set accuracy: 91.16809368133545 %
+<strong>Validation set accuracy: 91.16809368133545 %</strong><br>
 
-###Training set accuracy: 94.76893544197083 %
+<strong>Training set accuracy: 94.76893544197083 %</strong><br>
 
 
