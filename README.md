@@ -1,3 +1,4 @@
+<h2>Description:</h2>
 It is a fruits and vegetable recognition system using CNN and provide the recipe suggestions to the user. User can click vegetable or fruit image using this app. This CNN model predicts the provided image and gives the available recipe suggestions as well as the procedures.
 ![1](https://github.com/user-attachments/assets/79ddbf84-f1a8-4f3b-96f8-d608f656a5ea)
 ![2](https://github.com/user-attachments/assets/b2b0f00e-7635-4bc8-a6ef-bf0acc572838)
